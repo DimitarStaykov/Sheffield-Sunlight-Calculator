@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Sunlight</string>
+    <string name="hello_world">Hello World</string>
+    <string name="main_output">myOutput</string>
+</resources>
